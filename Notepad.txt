@@ -1,0 +1,5 @@
+# Q&A Summary Notepad
+
+This file contains automatically generated summaries of questions and answers.
+
+---

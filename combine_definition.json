@@ -1,0 +1,523 @@
+{
+  "word": "combine",
+  "timestamp": "2025-04-07T19:10:40.236533",
+  "sources": [
+    {
+      "source": "Merriam-Webster",
+      "word": "combine",
+      "url": "https://www.merriam-webster.com/dictionary/combine",
+      "definitions": [
+        {
+          "definition": "to bring into such close relationship as to obscure individual characters : merge",
+          "examples": [
+            "two companies combining forces"
+          ],
+          "pos": "transitive",
+          "sense_number": "1",
+          "sense_letter": "a"
+        },
+        {
+          "definition": "to cause to unite into a chemical compound",
+          "examples": [
+            "combining hydrofluoric acid with soda ash to form sodium fluoride"
+          ],
+          "pos": "transitive",
+          "sense_number": "1",
+          "sense_letter": "b"
+        },
+        {
+          "definition": "to unite into a single number or expression",
+          "examples": [
+            "Combine fractions and simplify."
+          ],
+          "pos": "transitive",
+          "sense_number": "1",
+          "sense_letter": "c"
+        },
+        {
+          "definition": "intermix, blend",
+          "examples": [
+            "Combine the sugar and flour."
+          ],
+          "pos": "transitive",
+          "sense_number": "2"
+        },
+        {
+          "definition": "to possess in combination",
+          "examples": [
+            "a writer whose works combine imagination and scholarship"
+          ],
+          "pos": "transitive",
+          "sense_number": "3"
+        },
+        {
+          "definition": "to become one",
+          "examples": [
+            "The two newspapers combined as the Chronicle."
+          ],
+          "pos": "intransitive",
+          "sense_number": "1",
+          "sense_letter": "a"
+        },
+        {
+          "definition": "to unite to form a chemical compound",
+          "examples": [],
+          "pos": "intransitive",
+          "sense_number": "1",
+          "sense_letter": "b"
+        },
+        {
+          "definition": "to act together",
+          "examples": [
+            "Many factors combined to cause the recession.",
+            "Wolves combine in their hunt for deer."
+          ],
+          "pos": "intransitive",
+          "sense_number": "2"
+        },
+        {
+          "definition": "a combination especially of business or political interests",
+          "examples": [
+            "… Grumman Corp. lost the advanced tactical aircraft contract to the combine of McDonnell Douglas and General Dynamics.",
+            "—George J. Church"
+          ],
+          "pos": "",
+          "sense_number": "1",
+          "sense_letter": "a"
+        },
+        {
+          "definition": "an event at which scouts from the teams in a professional sports league gather to evaluate players in preparation for choosing which players to draft",
+          "examples": [
+            "a scouting combine",
+            "Every spring the National Football League conducts that most cherished of American rituals, the college draft. A couple of months before the event, prospective players show off their abilities in an athletic audition known as the combine.",
+            "—Carl Zimmer"
+          ],
+          "pos": "",
+          "sense_number": "1",
+          "sense_letter": "b"
+        },
+        {
+          "definition": "a harvesting machine that heads, threshes, and cleans grain while moving over a field",
+          "examples": [],
+          "pos": "",
+          "sense_number": "2"
+        },
+        {
+          "definition": "to harvest with a combine",
+          "examples": [],
+          "pos": "transitive"
+        },
+        {
+          "definition": "to combine a crop",
+          "examples": [],
+          "pos": "intransitive"
+        },
+        {
+          "definition": "to bring into close relationship : unify",
+          "examples": [],
+          "pos": "",
+          "sense_number": "1"
+        },
+        {
+          "definition": "to mix together so that the identity of each part is lost",
+          "examples": [
+            "combine the ingredients of a recipe"
+          ],
+          "pos": "",
+          "sense_number": "2"
+        },
+        {
+          "definition": "to become one",
+          "examples": [],
+          "pos": "",
+          "sense_number": "3",
+          "sense_letter": "a"
+        },
+        {
+          "definition": "to unite to form a chemical compound",
+          "examples": [],
+          "pos": "",
+          "sense_number": "3",
+          "sense_letter": "b"
+        },
+        {
+          "definition": "a union of persons or groups especially for business or political benefits",
+          "examples": [],
+          "pos": "",
+          "sense_number": "1"
+        },
+        {
+          "definition": "a machine that harvests, threshes, and cleans grain while moving over a field",
+          "examples": [],
+          "pos": "",
+          "sense_number": "2"
+        },
+        {
+          "definition": "to cause to unite into a chemical compound",
+          "examples": [],
+          "pos": "transitive"
+        },
+        {
+          "definition": "to unite to form a chemical compound",
+          "examples": [],
+          "pos": "intransitive"
+        }
+      ]
+    },
+    {
+      "source": "Cambridge Dictionary",
+      "word": "combine",
+      "url": "https://dictionary.cambridge.org/dictionary/english/combine",
+      "definitions": [
+        {
+          "definition": "to (cause to) exist together, or join together to make a single thing or group:",
+          "examples": [
+            "None of us has much money so let's combine what we've got.",
+            "Sickness, combined with (= together with) terrible weather, contrived to ruin the trip.",
+            "The two countries combined against their common enemy."
+          ],
+          "pos": "verb"
+        },
+        {
+          "definition": "If someone combines two or more qualities, they have both of those qualities:",
+          "examples": [
+            "As a writer, he combined wit and passion.",
+            "The band combines musical talent with brilliant showmanship."
+          ],
+          "pos": "verb"
+        },
+        {
+          "definition": "to do two activities at the same time:",
+          "examples": [
+            "She manages to successfully combine family life and a career.",
+            "This exercise combines stretching with deep breathing."
+          ],
+          "pos": "verb"
+        },
+        {
+          "definition": "a group of people or organizations acting together in business:",
+          "examples": [
+            "a Japanese industrial combine"
+          ],
+          "pos": "noun"
+        },
+        {
+          "definition": "a large farming machine that cuts the plant, separates the seed from the stem, and cleans the grain as it moves across a field",
+          "examples": [],
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "source": "Cambridge Dictionary (English-Chinese)",
+      "word": "combine",
+      "url": "https://dictionary.cambridge.org/dictionary/english-chinese-simplified/combine",
+      "definitions": [
+        {
+          "definition": "to (cause to) exist together, or join together to make a single thing or group",
+          "examples": [
+            "None of us has much money so let's combine what we've got.",
+            "Sickness, combined with (= together with) terrible weather, contrived to ruin the trip.",
+            "The two countries combined against their common enemy."
+          ],
+          "pos": "verb",
+          "translation": "（使）结合；（使）联合；（使）合并；（使）综合"
+        },
+        {
+          "definition": "If someone combines two or more qualities, they have both of those qualities.",
+          "examples": [
+            "As a writer, he combined wit and/with passion."
+          ],
+          "pos": "verb",
+          "translation": "（人）兼具，兼有"
+        },
+        {
+          "definition": "to do two activities at the same time",
+          "examples": [
+            "She manages to successfully combine family life and/with a career."
+          ],
+          "pos": "verb",
+          "translation": "兼办，兼做，同时做（两种活动）"
+        },
+        {
+          "definition": "a group of people or organizations acting together in business",
+          "examples": [
+            "a Japanese industrial combine"
+          ],
+          "pos": "noun",
+          "translation": "联合体，联合企业，集团"
+        },
+        {
+          "definition": "a large farming machine that cuts the plant, separates the seed from the stem, and cleans the grain as it moves across a field",
+          "examples": [],
+          "pos": "noun",
+          "translation": "联合收割机"
+        }
+      ]
+    },
+    {
+      "source": "Longman Dictionary",
+      "word": "combine",
+      "url": "https://www.ldoceonline.com/dictionary/combine",
+      "definitions": [
+        {
+          "sense_number": 1,
+          "pos": "verb",
+          "grammar": "intransitive, transitive",
+          "definition": "if you combine two or more different things, or if they combine, they begin to exist or work together",
+          "examples": [
+            "Augustine was later to combine elements of this philosophy with the teachings of Christianity.",
+            "Diets are most effective when combined with exercise.",
+            "A number of factors have combined to create this difficult situation.",
+            "Ruth hesitated, uncertain of how to combine honesty and diplomacy in her answer.",
+            "The combined effects of the war and the drought resulted in famine."
+          ],
+          "grammatical_patterns": [
+            {
+              "pattern": "combine something with something",
+              "examples": [
+                "Augustine was later to combine elements of this philosophy with the teachings of Christianity.",
+                "Diets are most effective when combined with exercise."
+              ]
+            },
+            {
+              "pattern": "combine to do something",
+              "examples": [
+                "A number of factors have combined to create this difficult situation."
+              ]
+            }
+          ],
+          "collocations": [
+            {
+              "phrase": "combined effect/effects",
+              "meaning": "the result of two or more different things used or mixed together",
+              "examples": [
+                "The combined effects of the war and the drought resulted in famine."
+              ]
+            }
+          ],
+          "related_word": "combination",
+          "thesaurus_ref": "mix"
+        },
+        {
+          "sense_number": 2,
+          "pos": "verb",
+          "grammar": "transitive",
+          "definition": "to have two or more different features or qualities at the same time",
+          "examples": [
+            "Good carpet wool needs to combine softness with strength."
+          ],
+          "grammatical_patterns": [
+            {
+              "pattern": "combine something with/and something",
+              "examples": [
+                "Good carpet wool needs to combine softness with strength."
+              ]
+            }
+          ],
+          "related_word": "combination"
+        },
+        {
+          "sense_number": 3,
+          "pos": "verb",
+          "grammar": "intransitive, transitive",
+          "definition": "if two or more different substances combine, or if you combine them, they mix or join together to produce a new single substance",
+          "examples": [
+            "Different amino acids combine to form proteins.",
+            "Combine all the ingredients in a large bowl.",
+            "Steel is produced by combining iron with carbon."
+          ],
+          "grammatical_patterns": [
+            {
+              "pattern": "combine to do something",
+              "examples": [
+                "Different amino acids combine to form proteins."
+              ]
+            },
+            {
+              "pattern": "combine something with something",
+              "examples": [
+                "Steel is produced by combining iron with carbon."
+              ]
+            }
+          ],
+          "related_word": "combination",
+          "thesaurus_ref": "mix"
+        },
+        {
+          "sense_number": 4,
+          "pos": "verb",
+          "grammar": "transitive",
+          "definition": "to do two different activities at the same time",
+          "examples": [
+            "Many people enjoy combining a holiday with learning a new skill.",
+            "the problems facing women who wish to combine a career and family"
+          ],
+          "grammatical_patterns": [
+            {
+              "pattern": "combine something with something",
+              "examples": [
+                "Many people enjoy combining a holiday with learning a new skill."
+              ]
+            },
+            {
+              "pattern": "combine something and something",
+              "examples": [
+                "the problems facing women who wish to combine a career and family"
+              ]
+            }
+          ],
+          "collocations": [
+            {
+              "phrase": "combine business with pleasure",
+              "meaning": "work and enjoy yourself at the same time"
+            }
+          ]
+        },
+        {
+          "sense_number": 5,
+          "pos": "verb",
+          "grammar": "intransitive, transitive",
+          "definition": "if two or more groups, organizations etc combine, or if you combine them, they join or work together in order to do something",
+          "examples": [
+            "Ten British and French companies combined to form the Channel Tunnel Group.",
+            "University zoologists and government vets are combining forces (=working together) to investigate the disease."
+          ],
+          "grammatical_patterns": [
+            {
+              "pattern": "combine to do something",
+              "examples": [
+                "Ten British and French companies combined to form the Channel Tunnel Group."
+              ]
+            }
+          ]
+        },
+        {
+          "sense_number": 1,
+          "pos": "noun",
+          "definition": "a machine used by farmers to cut grain, separate the seeds from it, and clean it",
+          "examples": []
+        },
+        {
+          "sense_number": 2,
+          "pos": "noun",
+          "definition": "a group of people, businesses etc who work together",
+          "examples": [
+            "The factory was sold to a British combine after the war."
+          ]
+        },
+        {
+          "sense_number": 1,
+          "pos": "verb",
+          "definition": "if two or more groups or organizations combine, or if you combine them, they join together",
+          "examples": [
+            "They said they expect no job losses from combining their operations.",
+            "Two old established practices combined to form The Anthony Clark Partnership."
+          ],
+          "grammatical_patterns": [
+            {
+              "pattern": "combine to do something",
+              "examples": [
+                "Two old established practices combined to form The Anthony Clark Partnership."
+              ]
+            }
+          ]
+        },
+        {
+          "sense_number": 1,
+          "pos": "noun",
+          "definition": "an association of two or more businesses or companies that work together on a temporary or permanent basis",
+          "examples": [
+            "a large regional banking combine",
+            "There may be concern if one airline combine controls more than 25% of a relevant market."
+          ]
+        }
+      ],
+      "word_family": {
+        "(noun)": [
+          "combination"
+        ],
+        "(adjective)": [
+          "combined"
+        ],
+        "(verb)": [
+          "combine"
+        ]
+      },
+      "pronunciation": "ˈkɒmbaɪnˈkɑːm-",
+      "pos": "noun",
+      "corpus_examples": [
+        {
+          "title": "combine",
+          "examples": [
+            "Carl has more experience than any of them [combined].",
+            "He makes more money than everyone else in the office [combined].",
+            "The grammar of the language can be used to restrict word combinations because they do not [combine] arbitrarily to form sentences.",
+            "Modern and traditional teaching methods are [combined] at the school.",
+            "He designed the first great suspension bridge, an idea that [combines] beauty and function perfectly.",
+            "Waistliner - [combine] cottage cheese, diced red pepper and sweetcorn. 7.",
+            "This is a computer system that [combines] maximum flexibility with absolute accuracy.",
+            "The highest possible score on each section is 800, for a [combined] score of 1600.",
+            "[Combine] the egg yolks and the cream, and cook over a low heat.",
+            "It is even related that Molla Tusi [combined] the Muftilik with teaching at the Sahn.",
+            "The banks plan to merge and [combine] their assets.",
+            "The specification of each of these processors as well as a control system to [combine] them intelligently is currently far beyond any expectations.",
+            "When the two chemicals [combine], they form an explosive compound.",
+            "To maintain a constant standard, some wine producers [combine] this year's wine with stocks from the previous year.",
+            "The opposition parties [combined] to drive the Prime Minister out of office.",
+            "In a large, heavy-bottomed saucepan, [combine] water, salt, butter, and bay leaf.",
+            "Members of the radical Right [combined] with communists in holding an illegal meeting.",
+            "Greenhouse gases [combine] with hydrocarbons to form smog.",
+            "Sleeping pills can interfere with the effect of other medications and can be dangerous when [combined] with them."
+          ]
+        },
+        {
+          "title": "combined effect/effects",
+          "examples": [
+            "The [combined effect] has been to translate regions that were once largely rural into bastions of urbanization.",
+            "This is a condition brought about by the [combined effect] of evolution and civilisation and for everyone it is quite unavoidable.",
+            "The [combined effect] of federal, state and local taxes in the United States in 1985 fell heavily on the poorest.",
+            "Now, however, the [combined effects] of scurvy, anemia and exhaustion kept him asleep twenty hours out of the day.",
+            "The [combined effects] of these waves on our health and well-being are as yet unknown.",
+            "These three factors each accounted for similar proportions of [combined effect] on average pay of around 15 percent.",
+            "Several plants grouped together will create their own humid micro-climate, though overcrowding may make the [combined effect] too much.",
+            "The [combined effect] was to reduce mortality rates."
+          ]
+        },
+        {
+          "title": "combine to do something",
+          "examples": [
+            "Chimpanzee males [combine to] capture prey which is then torn up and shared.",
+            "These discouraging factors [combine to] compel a search for cheaper and environmentally safer energy sources.",
+            "S.-led diplomacy and military force [combined to] end the war last fall.",
+            "It is easy to show that these two steps [combine to] give the required result.",
+            "All these functions can be [combined to] give you the advantages of traditional cooking in less than half the normal cooking time.",
+            "Economic, racial, political, historic and cultural factors have [combined to] interweave the fabric of the world.",
+            "The radio waves, magnetic field and computer technology [combine to] produce vivid images of the body's soft tissue.",
+            "Matthew Broderick and Meg Ryan are two jilted lovers who [combine to] seek revenge on their former partners."
+          ]
+        },
+        {
+          "title": "combine something and something",
+          "examples": [
+            "Most college students today [combine school and] work."
+          ]
+        },
+        {
+          "title": "combining forces",
+          "examples": [
+            "Little was to be expected from [combining forces] and votes in international organisations."
+          ]
+        },
+        {
+          "title": "combine",
+          "examples": [
+            "Lutz Gattnar was in charge of computer projects at the 7 Oktober [combine] until the revolution.",
+            "They go through an intelligence test and an array of interviews at the scouting [combine] in February.",
+            "The [combine] has been through the Crops Challenge field and the final costs have been totted up."
+          ]
+        }
+      ]
+    }
+  ]
+}

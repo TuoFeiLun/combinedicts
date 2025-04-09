@@ -223,15 +223,30 @@ class MerriamWebsterScraper(DictionaryScraper):
 class CambridgeDictionaryScraper(DictionaryScraper):
     """Scraper for Cambridge dictionary."""
     
-    def __init__(self, session: aiohttp.ClientSession, chinese=False):
+    def __init__(self, session: aiohttp.ClientSession, language="chinese"):
         super().__init__(session)
         self.name = "Cambridge Dictionary"
-        self.chinese = chinese
-        if chinese:
+        
+        # Set base URL and dictionary name based on language
+        if language == "chinese":
             self.base_url = "https://dictionary.cambridge.org/dictionary/english-chinese-simplified/"
             self.name = "Cambridge Dictionary (English-Chinese)"
+            self.has_translation = True
+        elif language == "japanese":
+            self.base_url = "https://dictionary.cambridge.org/dictionary/english-japanese/"
+            self.name = "Cambridge Dictionary (English-Japanese)"
+            self.has_translation = True
+        elif language == "korean":
+            self.base_url = "https://dictionary.cambridge.org/dictionary/english-korean/"
+            self.name = "Cambridge Dictionary (English-Korean)"
+            self.has_translation = True
+        elif language == "italian":
+            self.base_url = "https://dictionary.cambridge.org/dictionary/english-italian/"
+            self.name = "Cambridge Dictionary (English-Italian)"
+            self.has_translation = True
         else:
             self.base_url = "https://dictionary.cambridge.org/dictionary/english/"
+            self.has_translation = False
     
     async def get_definition(self, word: str) -> Dict[str, Any]:
         """Get definition and examples from Cambridge Dictionary."""
@@ -260,9 +275,9 @@ class CambridgeDictionaryScraper(DictionaryScraper):
                     if definition_elem:
                         definition = self.clean_text(definition_elem.text)
                         
-                        # Get Chinese translation if available
+                        # Get translation if available for bilingual dictionaries
                         translation = ""
-                        if self.chinese:
+                        if self.has_translation:
                             trans_elem = block.select_one(".trans.dtrans")
                             if trans_elem:
                                 translation = self.clean_text(trans_elem.text)
@@ -284,7 +299,7 @@ class CambridgeDictionaryScraper(DictionaryScraper):
                             "pos": word_type
                         }
                         
-                        if self.chinese and translation:
+                        if self.has_translation and translation:
                             def_obj["translation"] = translation
                             
                         definitions.append(def_obj)
@@ -579,10 +594,8 @@ class CombinedDictionaryScraper:
         # Add dictionary scrapers
         self.scrapers = [
             MerriamWebsterScraper(self.session),
-            CambridgeDictionaryScraper(self.session),
-            CambridgeDictionaryScraper(self.session, chinese=True),
+            CambridgeDictionaryScraper(self.session, language="chinese"),
             LongmanDictionaryScraper(self.session),
-            
         ]
     
     async def close(self):
